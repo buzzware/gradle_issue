@@ -1,12 +1,18 @@
+GIT
+  remote: git@github.com:HipByte/motion-gradle.git
+  revision: a8c685237682ed524f4018b141dc110e276bf671
+  tag: v1.1.1
+  specs:
+    motion-gradle (1.1.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
-    motion-gradle (1.0.5)
     rake (10.4.2)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  motion-gradle
+  motion-gradle!
   rake
